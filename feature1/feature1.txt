@@ -1,1 +1,2 @@
 feature1 implementation
+cool idea
